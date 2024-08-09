@@ -3,19 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/web/chatcard.jsp</file>
-            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/src/java/Helper/LocalDateTimeSerializer.java</file>
-            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/src/java/Repository/UserRepository.java</file>
-            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/src/java/ChatEndpoint.java</file>
-            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/src/java/Repository/InMemoryChatRepository.java</file>
-            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/src/java/Repository/ChatRoomRepository.java</file>
-            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/src/java/Models/Chat.java</file>
             <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/web/chat.jsp</file>
             <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/web/header.jsp</file>
-            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/src/java/Repository/ChatRepository.java</file>
-            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/src/java/Models/ChatRoom.java</file>
-            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/src/java/Helper/DateTimeHelper.java</file>
-            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/src/java/Helper/LocalDateTimeDeserializer.java</file>
+            <file>file:/C:/Users/Sanja/Documents/NetBeansProjects/ChatPy/src/java/RealTime/ChatEndpoint.java</file>
         </group>
     </open-files>
 </project-private>
